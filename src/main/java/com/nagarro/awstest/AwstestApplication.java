@@ -8,7 +8,7 @@ public class AwstestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AwstestApplication.class, args);
-		System.out.println("AWS test by Uvindu")
+		System.out.println("AWS test by Uvindu");
 	}
 
 }
